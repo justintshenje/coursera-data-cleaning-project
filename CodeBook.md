@@ -8,3 +8,8 @@ cbind test data combining all test datasets
 test and train data merged 
 write tidy dataset
 
+#variables in dataset
+activities (eg walking, standing, sitting etc)
+
+
+
